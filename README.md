@@ -1,10 +1,10 @@
-## :wave: Hey, i am Mohammed Andro! 
+## :wave: Hey, I am Mohammed Andro! 
 
 ### :heart:️ Thanks for being here!
 
-- :telephone_receiver: You can contact me through **[Discord](https://discord.com/! モハメッド/#0485)** (**`(! モハメッド#0485)`**)
+- :telephone_receiver: You can contact me through **[Discord](https://discord.com/users/user_id)** (**`! モハメッド#0485`**)
 
-- :briefcase: Most famous projects: **[Project Name](Link)**
+- :briefcase: Career: **Front-end Developer**
 
 #### Languages and Tools I can work with:
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
