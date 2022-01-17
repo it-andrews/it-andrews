@@ -4,7 +4,7 @@
 
 - :telephone_receiver: You can contact me through **[Discord](https://discord.com/users/user_id)** (**`Androz#9999`**)
 
-- :briefcase: Career: **Full-stack Developer**
+- :briefcase: Career: **JavaSciprt Developer**
 
 #### Languages and Tools I can work with:
 <a><img src="https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white"></a>
