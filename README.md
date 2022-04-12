@@ -1,4 +1,4 @@
-## :wave: Hey, I am Mohammed Andro! 
+## :wave: Hey, I am Mohammed Al Ghamdi! 
 
 ### :heart:️ Thanks for being here!
 
