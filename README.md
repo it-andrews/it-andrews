@@ -2,7 +2,7 @@
 
 ### :heart:️ Thanks for being here!
 
-- :telephone_receiver: You can contact me through **[Discord](https://discord.com/users/user_id)** (**`Androz#9999`**)
+- :telephone_receiver: You can contact me through **[Discord](https://discord.com/users/user_id)** (**`Andrews#5748`**)
 
 - :briefcase: Career: **JavaSciprt Developer**
 
